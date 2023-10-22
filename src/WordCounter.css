@@ -1,0 +1,17 @@
+.word-counter {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  textarea {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  p {
+    margin-top: 10px;
+  }
+  
