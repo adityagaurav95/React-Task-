@@ -1,0 +1,29 @@
+.app {
+    text-align: center;
+    margin-top: 10%;
+}
+
+h1{
+    margin-block-end: -10px;
+}
+input{
+    padding:8px;
+    border-radius: 8px;
+    border: solid black;
+}
+
+button{
+    margin-top: 15px;
+    border-radius:8px;
+    padding: 8px;
+    background-color: rgb(44, 92, 238);
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border:solid black;
+    cursor: pointer;
+}
+
+button:disabled{
+    background-color:  rgb(90, 126, 232);
+    border: solid white;
+}
